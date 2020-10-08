@@ -4,19 +4,20 @@
 For terms of use, see http://www.unicode.org/copyright.html
 Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+Proper interpretation of these files requires synthesis of missing items, as per
+​http://unicode.org/repos/cldr/trunk/specs/ldml/tr35-general.html#Annotations
+Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/ for derived annotations.
 -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
 		<language type="shn"/>
-		<territory type="MM"/>
 	</identity>
 	<localeDisplayNames>
-		<localeDisplayPattern>
-			<localePattern>↑↑↑</localePattern>
-			<localeSeparator>↑↑↑</localeSeparator>
-			<localeKeyTypePattern>↑↑↑</localeKeyTypePattern>
-		</localeDisplayPattern>
+		<languages>
+			<language type="လိၵ်ႈတႆး">Name of your language as written in your language</language>
+		</languages>
+	</localeDisplayNames>
 		<languages>
 			<language type="aa">ဢႃးၾႃႇ</language>
 			<language type="ab">ဢပ်ႇၶႃးၸီႇယႅၼ်ႇ</language>
@@ -1285,11 +1286,11 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		</codePatterns>
 	</localeDisplayNames>
 	<characters>
-		<exemplarCharacters draft="contributed">↑↑↑</exemplarCharacters>
-		<exemplarCharacters type="auxiliary" draft="contributed">↑↑↑</exemplarCharacters>
-		<exemplarCharacters type="index" draft="contributed">↑↑↑</exemplarCharacters>
-		<exemplarCharacters type="numbers" draft="contributed">↑↑↑</exemplarCharacters>
-		<exemplarCharacters type="punctuation" draft="contributed">↑↑↑</exemplarCharacters>
+		<exemplarCharacters>[ၵ ၶ င ၸ သ ၺ တ ထ ၼ ပ ၽ ၾ မ ယ လ ဝ ႁ ဢ ၹ ၻ ႀ ႞ ရ ꧠ ꧢ ꧣ ꧤ ႇ ွ း ႈ ႊ ် ႂ ၢ ႃ ိ ီ ဵ ႅ ျ ] </exemplarCharacters>
+		<exemplarCharacters type="auxiliary">[၀႐ ၁႑ ၂႒ ၃႓ ၄႔ ၅႕ ၆႖ ၇႗ ၈႘ ၉႙  ဢ ၢ  ႈ ႊ ]</exemplarCharacters>
+		<exemplarCharacters type="index" draft="contributed">[ၵ ၶ င ၸ သ ၺ တ ထ ၼ ပ ၽ ၾ မ ယ လ ဝ ႁ ဢ]</exemplarCharacters>
+		<exemplarCharacters type="numbers">[\- ‑ , . % ‰ + 0႐ 1႑ 2႒ 3႓ 4႔ 5႕ 6႖ 7႗ 8႘ 9႙]</exemplarCharacters>
+		<exemplarCharacters type="punctuation">[၊ ။ ‘ ’ “ ”]</exemplarCharacters>
 		<ellipsis type="final">↑↑↑</ellipsis>
 		<ellipsis type="initial">↑↑↑</ellipsis>
 		<ellipsis type="medial">↑↑↑</ellipsis>
