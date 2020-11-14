@@ -19,9 +19,11 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		</languages>
 	</localeDisplayNames>
 	<characters>
-		<exemplarCharacters>[a b c č d e f g h i j k l m n o p q r s š t u v w x y z]</exemplarCharacters>
-		<exemplarCharacters type="auxiliary">[]</exemplarCharacters>
-		<exemplarCharacters type="index">[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]</exemplarCharacters>
+		<exemplarCharacters>[ၵ ၶ င ၸ သ ၺ တ ထ ၼ ပ ၽ ၾ မ ယ လ ဝ ႁ ဢ ၹ ၻ ႀ ႞ ရ ꧠ ꧢ ꧣ ꧤ ႇ ွ း ႈ ႊ ် ႂ ၢ ႃ ိ ီ ဵ ႅ ျ ] </exemplarCharacters>
+		<exemplarCharacters type="auxiliary">[၀႐ ၁႑ ၂႒ ၃႓ ၄႔ ၅႕ ၆႖ ၇႗ ၈႘ ၉႙  ဢ ၢ  ႈ ႊ ]</exemplarCharacters>
+		<exemplarCharacters type="index" draft="contributed">[ၵ ၶ င ၸ သ ၺ တ ထ ၼ ပ ၽ ၾ မ ယ လ ဝ ႁ ဢ]</exemplarCharacters>
+		<exemplarCharacters type="numbers">[\- ‑ , . % ‰ + 0႐ 1႑ 2႒ 3႓ 4႔ 5႕ 6႖ 7႗ 8႘ 9႙]</exemplarCharacters>
+		<exemplarCharacters type="punctuation">[၊ ။ ‘ ’ “ ”]</exemplarCharacters
 		<!-- Sandbox locale.  DO NOT MODIFY.
 			 This file is listed as 'scratch' in SpecialLocales.txt.  If your tool modified this file, it is in error.
 		-->
