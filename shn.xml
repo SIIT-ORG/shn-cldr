@@ -223,16 +223,16 @@ annotations.
 			<language type="gil">ၵဵဝ်းပတိတ်ႉသ်</language>
 			<language type="gl">ၵလီးသီယႅၼ်ႇ</language>
 			<language type="glk">ၵီလၵ်ႉၶီႇ</language>
-			<language type="gmh">ၵျႃႇမႅၼ်ႇႇ ပွတ်းၵၢၼ် တီႈသုင်</language>
+			<language type="gmh">ၵျႃႇမႅၼ်ႇ ပွတ်းၵၢၼ် တီႈသုင်</language>
 			<language type="gn">ၵႂႃႇရႃၼီး</language>
-			<language type="goh">ၵျႃႇမႅၼ်ႇႇ တီႈသုင် မိူဝ်ႈၵွၼ်ႇ</language>
+			<language type="goh">ၵျႃႇမႅၼ်ႇ တီႈသုင် မိူဝ်ႈၵွၼ်ႇ</language>
 			<language type="gom">ၵူဝ်ႇဢၼ်ႇ ၵွၼ်ႇၵၼီး</language>
 			<language type="gon">ၵွၼ်းတီႇ</language>
 			<language type="gor">ၵေႃႇရူၼ်ႇတႄလ်လူဝ်ႇ</language>
 			<language type="got">ၵွတ်ႉတိၵ်ႇ</language>
 			<language type="grb">ၵရီပူဝ်ႇ</language>
 			<language type="grc">ၵရိတ်ႈ မိူဝ်ႈၵွၼ်ႇ</language>
-			<language type="gsw">ၵျႃႇမႅၼ်ႇႇ သဝိတ်ႉ</language>
+			<language type="gsw">ၵျႃႇမႅၼ်ႇ သဝိတ်ႉ</language>
 			<language type="gu">ၵူးၵျရႃႇတီႇ</language>
 			<language type="guc">ဝႃႉယူး</language>
 			<language type="gur">ၾရႃၾရႃ</language>
@@ -452,6 +452,29 @@ annotations.
 			<language type="ota">ဢွတ်ႉထူဝ်ႇမၼ်ႇ တိူဝ်းၵိတ်ႉသျ်</language>
 			<language type="pa">ပၼ်ႇၵျႃႇပီႇ</language>
 			<language type="pag">ပင်ၵႃႉသီၼၼ်ႈ</language>
+			<language type="pal">ပႃးလဝီ</language>
+			<language type="pam">ပၢမ်ပင်ၵႃ</language>
+			<language type="pap">ပႃးပီးယႃးမႅၼ်းတေႃႇ</language>
+			<language type="pau">ပလၢဝ်းဢၼ်ႇ</language>
+			<language type="pcd">ပီးၶၢတ်ႇ</language>
+			<language type="pcm">ပိတ်ႉၵျိၼ်ႇ ၼၢႆႇၵျီးရီးယႅၼ်း</language>
+			<language type="pdc">ၵျႃႇမႅၼ်ႇ ပႅၼ်ႇသႄႇဝေးၼီးယႃး</language>
+			<language type="pdt">ပလၢဝ်ႉတိၵ်ႉၶျ်</language>
+			<language type="peo">ပႃႇသီးယႅၼ်း ၵဝ်ႇ</language>
+			<language type="pfl">ၵျႃႇမႅၼ်ႇ ပႃႇလတၢႆး</language>
+			<language type="phn">ၽူဝ်ႇၼီးသျၼ်ႇ</language>
+			<language type="pi">ပႃႇလီႇ</language>
+			<language type="pl">ပူဝ်းလိတ်ႉသျ်</language>
+			<language type="pms">ပိတ်ႉမွၼ်းထီႉသ်</language>
+			<language type="pnt">ပွၼ်းထိၵ်ႉ</language>
+			<language type="pon">ၽွၼ်းၽဵင်ႇ</language>
+			<language type="prg">ပရွတ်ႉသျၼ်ႇ</language>
+			<language type="pro">ပရူဝ်ဝႅၼ်သႃႈ ၵဝ်ႇ</language>
+			<language type="ps">ပၢတ်ႉသျ်ထူဝ်ႇ</language>
+			<language type="ps" alt="variant">ပုတ်ႉသျ်ထူဝ်ႇ</language>
+			<language type="pt">ပေႃးတူၵိတ်ႉသ်</language>
+			<language type="pt_BR">ပေႃးတူၵိတ်ႉသ် ပရၸီးလီးယႅၼ်ႇ</language>
+			<language type="pt_PT">ပေႃးတူၵိတ်ႉသ် ယူႇရူဝ်ႇပီႇယႅၼ်ႇ</language>
 		</languages>
 		
 </ldml>
