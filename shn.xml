@@ -1201,4 +1201,9 @@ annotations.
 			<territory type="ZW">ၸိမ်ႇပႃႇပူၺ်ႇ</territory>
 			<territory type="ZZ">တူင်ႇလိၼ် ဢမ်ႇႁူႉၸၵ်း</territory>
 		</territories>
+		<subdivisions>
+			<subdivision type="gbeng">ဢိင်ႇၵလႅၼ်ႇ</subdivision>
+			<subdivision type="gbsct">သၵွတ်ႉတလႅၼ်ႇ</subdivision>
+			<subdivision type="gbwls">ဝေးလ်</subdivision>
+		</subdivisions>
 </ldml>
