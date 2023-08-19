@@ -1206,4 +1206,9 @@ annotations.
 			<subdivision type="gbsct">သၵွတ်ႉတလႅၼ်ႇ</subdivision>
 			<subdivision type="gbwls">ဝေးလ်</subdivision>
 		</subdivisions>
+		<variants>
+			<variant type="1901">ပိူင်တႅမ်ႈ ၽိင်ႈထုင်း ၵျႃႇမႅၼ်ႇ</variant>
+			<variant type="1994">ပိူင်တႅမ်ႈ လၵ်းၸဵင် ရီသီႇယႅၼ်ႇ</variant>
+			<variant type="1996">ပိူင်တႅမ်ႈ ၵျႃႇမႅၼ်ႇ မိူဝ်ႈ 1996</variant>
+		</variants>
 </ldml>
