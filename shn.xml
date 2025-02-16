@@ -44,6 +44,7 @@ annotations.
 			<language type="am">ဢမ်ႇႁႄးရိၵ်ႉ</language>
 			<language type="an">ဢရၵၼိတ်ႉ</language>
 			<language type="ang">ဢိင်းၵလဵတ်ႈ ပၢၼ်ၵဝ်ႇ</language>
+			<language type="ann">ဢူဝ်ႇပူဝ်ႇလူဝ်ႇ</language>
 			<language type="anp">ဢႅၼ်ၵျိၵႃႇ</language>
 			<language type="ar">ဢႃးရပိၵ်ႉ</language>
 			<language type="ar_001">ဢႃးရပိၵ်ႉ လၵ်းၸဵင် ပၢၼ်မႂ်ႇ</language>
@@ -59,7 +60,7 @@ annotations.
 			<language type="arz">ဢႃးရပိၵ်ႉ ဢီးၵျိပ်ႈသျၼ်ႇ</language>
 			<language type="as">ဢႃႇသမ်ႇ</language>
 			<language type="asa">ဢသူး</language>
-			<language type="ase">ၽႃႇသႃႇၵႂၢမ်း ႁၢင်ႈမၢႆတွင်း ဢမႄႇရိၵၢၼ်ႇ</language>
+			<language type="ase">ၽႃႇသႃႇ ႁၢင်ႈမၢႆတွင်း ဢမႄႇရိၵၢၼ်ႇ</language>
 			<language type="ast">ဢတိူဝ်ႇရီႇယႅၼ်ႇ</language>
 			<language type="av">ဢႃးဝရိၵ်ႉ</language>
 			<language type="avk">ၶူဝ်ထႃႉဝႃႇ</language>
@@ -176,12 +177,12 @@ annotations.
 			<language type="en_CA">ဢိင်းၵလဵတ်ႈ ၶႅၼ်ႇၼေးတီးယႅၼ်း</language>
 			<language type="en_GB">ဢိင်းၵလဵတ်ႈ ပရိတ်ႉတိတ်ႉ</language>
 			<language type="en_GB" alt="short">ဢိင်းၵလဵတ်ႈ ယူႇၶေႇ</language>
-			<language type="en_US">ဢိင်းၵလဵတ်ႈ ဢမေႇရိၵၢၼ်ႇ</language>
+			<language type="en_US">ဢိင်းၵလဵတ်ႈ ဢမႄႇရိၵၢၼ်ႇ</language>
 			<language type="en_US" alt="short">ဢိင်းၵလဵတ်ႈ ယူႇဢႅတ်ႉသ်</language>
 			<language type="enm">ဢိင်းၵလဵတ်ႈ ပွတ်းၵၢင်</language>
 			<language type="eo">ဢႅတ်ႉသ်ပရႅၼ်တူဝ်ႇ</language>
 			<language type="es">သပႅၼ်းၼိတ်ႉသျ်</language>
-			<language type="es_419">သပႅၼ်းၼိတ်ႉသျ် လႅတ်ႉတိၼ်ႇ ဢမေႇရိၵၢၼ်ႇ</language>
+			<language type="es_419">သပႅၼ်းၼိတ်ႉသျ် လႅတ်ႉတိၼ်ႇ ဢမႄႇရိၵၢၼ်ႇ</language>
 			<language type="es_ES">သပႅၼ်းၼိတ်ႉသျ် ယူႇရူဝ်ႇပီႇယႅၼ်ႇ</language>
 			<language type="es_MX">သပႅၼ်းၼိတ်ႉသျ် မႅၵ်ႇသီႇၶႅၼ်ႇ</language>
 			<language type="esu">ယူးၽိၵ်ႇ ပွတ်းၵၢင်</language>
@@ -209,7 +210,7 @@ annotations.
 			<language type="frp">ဢၢပ်းပီတၼ်ႇ</language>
 			<language type="frr">ၾရီႇသီႇယႅၼ်ႇ ပွတ်းႁွင်ႇ</language>
 			<language type="frs">ၾရီႇသီႇယႅၼ်ႇ ပွတ်းဝၼ်းဢွၵ်ႇ</language>
-			<language type="fur">ၾရီႇယူးလီယႅၼ် Friulian</language>
+			<language type="fur">ၾရီႇယူးလီယႅၼ်</language>
 			<language type="fy">ၾရီႇသီႇယႅၼ်ႇ ပွတ်းဝၼ်းတူၵ်း</language>
 			<language type="ga">ဢၢႆးရိတ်ႉသျ်</language>
 			<language type="gaa">ၵႃႉ</language>
@@ -232,7 +233,7 @@ annotations.
 			<language type="got">ၵွတ်ႉတိၵ်ႇ</language>
 			<language type="grb">ၵရီပူဝ်ႇ</language>
 			<language type="grc">ၵရိတ်ႈ မိူဝ်ႈၵွၼ်ႇ</language>
-			<language type="gsw">ၵျႃႇမၼ်ႇႇ သဝိတ်ႉ</language>
+			<language type="gsw">ၵျႃႇမၼ်ႇ သဝိတ်ႉ</language>
 			<language type="gu">ၵူးၵျရႃႇတီႇ</language>
 			<language type="guc">ဝႃႉယူး</language>
 			<language type="gur">ၾရႃၾရႃ</language>
@@ -764,7 +765,7 @@ annotations.
 			<script type="Kana">ၶထၶၼ</script>
 			<script type="Kawi">ၶႃးဝီ</script>
 			<script type="Khar">ၶရွတ်ႉသ်ထီ</script>
-			<script type="Khmr">ၶမႃႇ</script>
+			<script type="Khmr">ၶမဵၼ်</script>
 			<script type="Khoj">ၶူဝ်ၵျၵီႇ</script>
 			<script type="Kits">တူဝ်လိၵ်ႈလဵၵ်ႉ ၶိတၼ်ႇ</script>
 			<script type="Knda">ၶၼ်ၼႃးတႃႇ</script>
@@ -1206,4 +1207,9 @@ annotations.
 			<subdivision type="gbsct">သၵွတ်ႉတလႅၼ်ႇ</subdivision>
 			<subdivision type="gbwls">ဝေးလ်</subdivision>
 		</subdivisions>
+		<variants>
+			<variant type="1901">ပိူင်တႅမ်ႈ ၽိင်ႈထုင်း ၵျႃႇမႅၼ်ႇ</variant>
+			<variant type="1994">ပိူင်တႅမ်ႈ လၵ်းၸဵင် ရီသီႇယႅၼ်ႇ</variant>
+			<variant type="1996">ပိူင်တႅမ်ႈ ၵျႃႇမႅၼ်ႇ မိူဝ်ႈ 1996</variant>
+		</variants>
 </ldml>
