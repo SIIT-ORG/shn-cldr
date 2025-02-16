@@ -59,7 +59,7 @@ annotations.
 			<language type="arz">ဢႃးရပိၵ်ႉ ဢီးၵျိပ်ႈသျၼ်ႇ</language>
 			<language type="as">ဢႃႇသမ်ႇ</language>
 			<language type="asa">ဢသူး</language>
-			<language type="ase">ၽႃႇသႃႇၵႂၢမ်း ႁၢင်ႈမၢႆတွင်း ဢမႄႇရိၵၢၼ်ႇ</language>
+			<language type="ase">ၽႃႇသႃႇ ႁၢင်ႈမၢႆတွင်း ဢမႄႇရိၵၢၼ်ႇ</language>
 			<language type="ast">ဢတိူဝ်ႇရီႇယႅၼ်ႇ</language>
 			<language type="av">ဢႃးဝရိၵ်ႉ</language>
 			<language type="avk">ၶူဝ်ထႃႉဝႃႇ</language>
@@ -176,12 +176,12 @@ annotations.
 			<language type="en_CA">ဢိင်းၵလဵတ်ႈ ၶႅၼ်ႇၼေးတီးယႅၼ်း</language>
 			<language type="en_GB">ဢိင်းၵလဵတ်ႈ ပရိတ်ႉတိတ်ႉ</language>
 			<language type="en_GB" alt="short">ဢိင်းၵလဵတ်ႈ ယူႇၶေႇ</language>
-			<language type="en_US">ဢိင်းၵလဵတ်ႈ ဢမေႇရိၵၢၼ်ႇ</language>
+			<language type="en_US">ဢိင်းၵလဵတ်ႈ ဢမႄႇရိၵၢၼ်ႇ</language>
 			<language type="en_US" alt="short">ဢိင်းၵလဵတ်ႈ ယူႇဢႅတ်ႉသ်</language>
 			<language type="enm">ဢိင်းၵလဵတ်ႈ ပွတ်းၵၢင်</language>
 			<language type="eo">ဢႅတ်ႉသ်ပရႅၼ်တူဝ်ႇ</language>
 			<language type="es">သပႅၼ်းၼိတ်ႉသျ်</language>
-			<language type="es_419">သပႅၼ်းၼိတ်ႉသျ် လႅတ်ႉတိၼ်ႇ ဢမေႇရိၵၢၼ်ႇ</language>
+			<language type="es_419">သပႅၼ်းၼိတ်ႉသျ် လႅတ်ႉတိၼ်ႇ ဢမႄႇရိၵၢၼ်ႇ</language>
 			<language type="es_ES">သပႅၼ်းၼိတ်ႉသျ် ယူႇရူဝ်ႇပီႇယႅၼ်ႇ</language>
 			<language type="es_MX">သပႅၼ်းၼိတ်ႉသျ် မႅၵ်ႇသီႇၶႅၼ်ႇ</language>
 			<language type="esu">ယူးၽိၵ်ႇ ပွတ်းၵၢင်</language>
@@ -209,7 +209,7 @@ annotations.
 			<language type="frp">ဢၢပ်းပီတၼ်ႇ</language>
 			<language type="frr">ၾရီႇသီႇယႅၼ်ႇ ပွတ်းႁွင်ႇ</language>
 			<language type="frs">ၾရီႇသီႇယႅၼ်ႇ ပွတ်းဝၼ်းဢွၵ်ႇ</language>
-			<language type="fur">ၾရီႇယူးလီယႅၼ် Friulian</language>
+			<language type="fur">ၾရီႇယူးလီယႅၼ်</language>
 			<language type="fy">ၾရီႇသီႇယႅၼ်ႇ ပွတ်းဝၼ်းတူၵ်း</language>
 			<language type="ga">ဢၢႆးရိတ်ႉသျ်</language>
 			<language type="gaa">ၵႃႉ</language>
@@ -232,7 +232,7 @@ annotations.
 			<language type="got">ၵွတ်ႉတိၵ်ႇ</language>
 			<language type="grb">ၵရီပူဝ်ႇ</language>
 			<language type="grc">ၵရိတ်ႈ မိူဝ်ႈၵွၼ်ႇ</language>
-			<language type="gsw">ၵျႃႇမၼ်ႇႇ သဝိတ်ႉ</language>
+			<language type="gsw">ၵျႃႇမၼ်ႇ သဝိတ်ႉ</language>
 			<language type="gu">ၵူးၵျရႃႇတီႇ</language>
 			<language type="guc">ဝႃႉယူး</language>
 			<language type="gur">ၾရႃၾရႃ</language>
